@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 ```
 ### Impacket
 ```
-git clone [https://github.com/garrettfoster13/sccmhunter](https://github.com/fortra/impacket)
+git clone https://github.com/fortra/impacket
 virtualenv --python=python3 ./impacket
 cd impacket
 source bin/activate

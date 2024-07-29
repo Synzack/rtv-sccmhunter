@@ -39,3 +39,6 @@ sudo apt install wireguard
 sudo cp studentX.config /etc/wireguard/wg0.conf
 sudo wg-quick up wg0
 ```
+
+## Ludus SCCM Repository
+[https://github.com/Synzack/ludus_sccm](https://github.com/Synzack/ludus_sccm)

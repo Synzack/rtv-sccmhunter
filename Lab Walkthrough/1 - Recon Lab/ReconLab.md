@@ -23,5 +23,5 @@ Use SCCMHunter's SMB module to profile the discovered SCCM principals. Take note
 python3 sccmhunter.py smb -u <username> -p <password> -dc-ip <dc-ip> -d ludus.domain
 ```
 <div align="center">
-<img src="./Screenshots/sccmhunter-smb.png" width="800">
+<img src="./Screenshots/sccmhunter-smb.png" width="1100">
 </div>
